@@ -1,0 +1,7 @@
+{
+  "id": "news_article_003",
+  "type": "news",
+  "title": "Breaking News Article 3",
+  "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20%283%29.jpeg",
+  "content": "This is the placeholder content for breaking news article number 3. You can replace this text on GitHub after the app is published. It is linked to thumbnail: image (3).jpeg. \n\nThis is a second paragraph of placeholder text for demonstration purposes."
+}
