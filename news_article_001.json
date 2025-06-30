@@ -1,7 +1,169 @@
-{
-  "id": "news_article_001",
-  "type": "news",
-  "title": "Top 10 Headlines: Global Events & Bible Prophecy Updates",
-  "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/endtimes_news_banner.png",
-  "content": "Here are 10 new and significant headlines from around the world (June 2025 updates) that are often discussed in relation to Bible prophecy and the end times:\n\n1. AI-Powered Preaching and Ethical Concerns in Churches — https://www.youtube.com/watch?v=yurcsMXCptY\n2. US Airstrikes and Ceasefire: Is the Israel-Iran War Over? A Prophecy Update — https://www.youtube.com/watch?v=IWXfEr5-oBU\n3. Red Heifer Arrives in Israel, Sparking Third Temple Reconstruction Talks — https://www.youtube.com/watch?v=9BLxr843ngQ\n4. Emerging Technologies: AI, Brain-Computer Interfaces, and Global Surveillance's Prophetic Echoes — https://thewatchershub.org/blog/emerging-technologies-and-the-end-times-a-christian-techno-prophetic-perspective\n5. Global Push for Cashless Societies Intensifies — https://www.davidjeremiah.org/age-of-signs/becoming-a-cashless-society-mark-of-the-beast?devdate=2020-04-05\n6. The 'Rising Lion': Prophecy and Current Conflicts in the Middle East — https://themedialine.org/life-lines/rising-lion-and-the-hand-of-god-is-prophecy-driving-the-war-with-iran/\n7. Intensifying Earthquakes, Famines, and Diseases: Signs of the Last Days — https://www.jw.org/en/bible-teachings/questions/last-days-sign-end-times-prophecies/\n8. Christian Persecution Reaches All-Time Highs Globally — https://www.opendoorsusa.org/christian-persecution/stories/top-countries-2025/\n9. Unpacking Revelation's First Four Seals: War, Famine, and Deception — https://www.youtube.com/watch?v=8J2vi_E5gMg\n10. Is Bible Prophecy Unfolding Now? Key Events in Israel and the Middle East — https://www.youtube.com/watch?v=8je3BjTn6SM"
-}
+[
+  {
+    "newsHeadline": "Escalated Middle East Conflict Sparks Global Energy Crisis Fears",
+    "summary": "M.E. conflict heightens global energy fears.",
+    "link": "https://apnews.com/article/oil-supply-demand-middle-east-1d4c15bf394235396e755c74bef4b458\n\n\nhttps://www.reuters.com/world/middle-east/"
+  },
+
+
+
+  {
+    "newsHeadline": "Israel Intensifies Defensive Measures Amid Regional Tensions",
+    "summary": "Israel boosts defense due to regional tension.",
+    "link": "https://www.securitycouncilreport.org/whatsinblue/2025/06/the-middle-east-including-the-palestinian-question-briefing-and-consultations-17.php\n\n\nhttps://www.aljazeera.com/news/2025/6/29/israeli-air-strikes-kill-dozens-in-gaza-amid-worsening-humanitarian-crisis"
+  },
+
+
+
+  {
+    "newsHeadline": "Iran's Nuclear Program Advances, Raising International Alarm",
+    "summary": "Iran's nuclear program alarms international community.",
+    "link": "https://commonslibrary.parliament.uk/research-briefings/cbp-10284/\n\n\nhttps://www.nytimes.com/topic/subject/iran-nuclear-deal"
+  },
+
+
+
+  {
+    "newsHeadline": "Global Economic Slowdown Prompts Calls for New Financial System",
+    "summary": "Economic slowdown sparks new financial system calls.",
+    "link": "https://www.worldbank.org/en/news/press-release/2025/06/10/global-economic-prospects-june-2025-press-release\n\n\nhttps://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary"
+  },
+
+
+
+  {
+    "newsHeadline": "Unprecedented Food Shortages and Famines Reported Across African Continent",
+    "summary": "Africa faces unprecedented food shortages, famine.",
+    "link": "https://www.fao.org/newsroom/detail/fao-and-wfp-early-warning-report-reveals-worsening-hunger-in-13-hotspots--five-with-immediate-risk-of-starvation/en\n\n\nhttps://reliefweb.int/report/sudan/refugees-escaping-sudan-face-escalating-hunger-and-malnutrition-food-aid-risks-major-reductions"
+  },
+
+
+
+  {
+    "newsHeadline": "Major Earthquake Strikes Pacific Rim, Causing Widespread Devastation",
+    "summary": "Major earthquake devastates Pacific Rim region.",
+    "link": "https://watchers.news/2025/06/01/m6-3-earthquake-hokkaido-japan-slight-sea-level-changes-forecast/\n\n\nhttps://www.artemis.bm/recent-earthquakes/"
+  },
+
+
+
+  {
+    "newsHeadline": "New Wave of Pestilence Spreads Rapidly, Challenging Global Health Systems",
+    "summary": "New pestilence rapidly challenges global health.",
+    "link": "https://www.promedmail.org/\n\n\nhttps://www.who.int/newsroom"
+  },
+
+
+
+  {
+    "newsHeadline": "Calls for Unified Global Governance Grow Amidst Crises",
+    "summary": "Crises lead to global governance calls.",
+    "link": "https://www.democracywithoutborders.org/37007/climate-groups-call-for-reform-of-un-talks-end-of-consensus-rule/\n\n\nhttps://reliefweb.int/report/world/fao-urges-collective-action-food-security-climate-and-development-challenges-africa"
+  },
+
+
+
+  {
+    "newsHeadline": "Rise in Anti-Semitism Alarms Jewish Communities Worldwide",
+    "summary": "Anti-Semitism rise alarms Jewish communities.",
+    "link": "https://combatantisemitism.org/studies-reports/antisemitic-incidents-remain-elevated-globally-in-april-amid-renewed-gaza-fighting/\n\n\nhttps://www.adl.org/news"
+  },
+
+
+
+  {
+    "newsHeadline": "Religious Persecution Escalates in Several Nations, Reports Human Rights Watch",
+    "summary": "Religious persecution escalates, reports Human Rights Watch.",
+    "link": "https://www.thebanner.org/news/2025/01/report-1-in-7-global-christians-faces-high-level-persecution\n\n\nhttps://www.churchinneed.org/father-fadi-azar-speaks-about-the-situation-of-christians-in-syria/"
+  },
+
+
+
+  {
+    "newsHeadline": "Diplomatic Efforts Fail to De-escalate Tensions Between Russia and Western Powers",
+    "summary": "Russia-West tensions remain, diplomacy fails.",
+    "link": "https://www.internationalaffairs.org.au/australianoutlook/diplomacy-in-crisis-new-global-strategies-ukraine-needs-to-end-the-war/\n\n\nhttps://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-june-25-2025"
+  },
+
+
+
+  {
+    "newsHeadline": "Historic Drought Conditions Threaten Global Water Supply",
+    "summary": "Historic drought threatens global water supply.",
+    "link": "https://www.insightsonindia.com/2025/06/19/global-drought-outlook-2025/\n\n\nhttps://www.drought.gov/what-is-drought/historical-drought"
+  },
+
+
+
+  {
+    "newsHeadline": "Mass Migrations Continue to Reshape Demographics Globally",
+    "summary": "Mass migrations reshape global demographics.",
+    "link": "https://www.icmpd.org/file/download/63373/file/ICMPD%2520Migration%2520Outlook%25202025.pdf\n\n\nhttps://macdonaldlaurier.ca/mass-immigration-can-cause-enormous-shifts-in-local-culture-national-identity-and-community-cohesion-geoff-russ-for-inside-policy/"
+  },
+
+
+
+  {
+    "newsHeadline": "Surge in Occult Practices and Spiritual Deception Reported",
+    "summary": "Occult practices, deception surge reported.",
+    "link": "https://www.deezer.com/en/show/5596647\n\n\nhttps://ignitumtoday.com/2025/01/16/healing-or-harm-unmasking-the-occult-roots-of-crystal-healing/"
+  },
+
+
+
+  {
+    "newsHeadline": "Ancient Sites in Middle East Face Renewed Threats from Conflict",
+    "summary": "M.E. conflict threatens ancient sites.",
+    "link": "https://www.dhs.gov/ntas/advisory/national-terrorism-advisory-system-bulletin-june-22-2025\n\n\nhttps://www.newarab.com/features/forgotten-cities-middle-east-ravaged-war"
+  },
+
+
+
+  {
+    "newsHeadline": "AI Breakthroughs Lead to Near-Human Level Cognition in Advanced Systems",
+    "summary": "AI achieves near-human cognition breakthroughs.",
+    "link": "https://dailygalaxy.com/2025/06/for-the-first-time-ai-breakthrough-enables-humans-to-hold-a-20-minute-conversation-with-a-humpback-whale/\n\n\nhttps://www.sciencedaily.com/releases/2025/04/250422131924.htm"
+  },
+
+
+
+  {
+    "newsHeadline": "Global Digital Currency Initiatives Gain Traction for International Transactions",
+    "summary": "Digital currency gains traction globally.",
+    "link": "https://www.finextra.com/blogposting/28798/banks-and-stablecoins-a-first-step-towards-bridging-traditional-finance-and-the-crypto-world\n\n\nhttps://www.lawfaremedia.org/article/will-central-bank-digital-currencies-revolutionize-global-finance"
+  },
+
+
+
+  {
+    "newsHeadline": "Biometric Identification Systems Adopted by More Governments for Citizen Verification",
+    "summary": "Governments adopt biometric identification systems.",
+    "link": "https://immi.home-affairs.gov.au/help-support/meeting-our-requirements/biometrics\n\n\nhttps://www.techpolicy.press/lessons-from-national-digital-id-systems-for-privacy-security-and-trust-in-the-ai-age/"
+  },
+
+
+
+  {
+    "newsHeadline": "Advanced Surveillance Technologies Deployed for Public Safety and National Security",
+    "summary": "Surveillance technologies deployed for security.",
+    "link": "https://www.akingump.com/en/insights/blogs/trump-executive-order-tracker/deploying-advanced-nuclear-reactor-technologies-for-national-security\n\n\nhttps://truthout.org/articles/trump-is-rapidly-expanding-the-surveillance-state-as-protests-grow/"
+  },
+
+
+
+  {
+    "newsHeadline": "Neuralink-like Brain-Computer Interfaces Show Promising Results in Human Trials",
+    "summary": "Neuralink shows promising human trial results.",
+    "link": "https://www.themiamiproject.org/paralyzed-veteran-implanted-with-neuralink-device/\n\n\nhttps://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2025.1553905/full"
+  },
+
+
+
+  {
+    "id": "news_article_006",
+    "type": "news",
+    "title": "Major Earthquake Strikes Pacific Rim",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20%286%29.jpeg",
+    "content": "A strong M6.3 earthquake struck near the coast of Hokkaido, Japan, on June 1, 2025, at 18:51 UTC. The shallow quake, also reported as M6.0 by USGS and EMSC, occurred at a depth of 31 km (19.2 miles). Japanese authorities forecast slight sea level changes. This event marks the second M6+ earthquake in the Hokkaido region since May 31, raising concerns about seismic activity in the Pacific Rim."
+  }
+]
