@@ -1,0 +1,39 @@
+name: Generate Rapture Sermon Index
+
+on:
+  push:
+    branches:
+      - main # IMPORTANT: Make sure this matches your default branch name (e.g., 'main' or 'master')
+    paths:
+      - 'rapture_sermon_*.json' # Trigger when any individual sermon JSON changes in the root
+      - '.github/scripts/generate_index.py' # Trigger if the script itself changes
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x' # Use a recent Python version
+
+    - name: Install dependencies (not strictly needed for this script, but good practice)
+      run: |
+        python -m pip install --upgrade pip
+
+    - name: Generate index file
+      run: python .github/scripts/generate_index.py
+
+    - name: Commit and push changes (if any)
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add rapture_sermons_index.json
+        git commit -m "Auto-generate rapture_sermons_index.json" || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is automatically provided by GitHub Actions
