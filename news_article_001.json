@@ -1,160 +1,50 @@
 [
   {
-    "newsHeadline": "Escalated Middle East Conflict Sparks Global Energy Crisis Fears",
-    "summary": "M.E. conflict heightens global energy fears.",
-    "link": "https://apnews.com/article/oil-supply-demand-middle-east-1d4c15bf394235396e755c74bef4b458\n\n\nhttps://www.reuters.com/world/middle-east/"
+    "id": "news_article_001",
+    "type": "news",
+    "title": "Escalated Middle East Conflict Sparks Global Energy Crisis Fears",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(1).jpeg",
+    "content": "Recent escalation in the Middle East conflict has raised serious concerns about global energy supply and price stability. Geopolitical tensions are impacting oil markets, leading to widespread fears of an impending energy crisis. Nations are closely monitoring developments and discussing potential interventions to mitigate the economic fallout.\n\nLearn more: https://apnews.com/article/oil-supply-demand-middle-east-1d4c15bf394235396e755c74bef4b458\n\nhttps://www.reuters.com/world/middle-east/"
   },
 
 
 
   {
-    "newsHeadline": "Israel Intensifies Defensive Measures Amid Regional Tensions",
-    "summary": "Israel boosts defense due to regional tension.",
-    "link": "https://www.securitycouncilreport.org/whatsinblue/2025/06/the-middle-east-including-the-palestinian-question-briefing-and-consultations-17.php\n\n\nhttps://www.aljazeera.com/news/2025/6/29/israeli-air-strikes-kill-dozens-in-gaza-amid-worsening-humanitarian-crisis"
+    "id": "news_article_002",
+    "type": "news",
+    "title": "Israel Intensifies Defensive Measures Amid Regional Tensions",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(2).jpeg",
+    "content": "Amid heightened regional tensions, Israel has significantly intensified its defensive measures. Reports indicate increased military readiness, air defense deployments, and strategic planning to counter potential threats from various regional actors. The security situation remains volatile, prompting international calls for de-escalation.\n\nLearn more: https://www.securitycouncilreport.org/whatsinblue/2025/06/the-middle-east-including-the-palestinian-question-briefing-and-consultations-17.php\n\nhttps://www.aljazeera.com/news/2025/6/29/israeli-air-strikes-kill-dozens-in-gaza-amid-worsening-humanitarian-crisis"
   },
 
 
 
   {
-    "newsHeadline": "Iran's Nuclear Program Advances, Raising International Alarm",
-    "summary": "Iran's nuclear program alarms international community.",
-    "link": "https://commonslibrary.parliament.uk/research-briefings/cbp-10284/\n\n\nhttps://www.nytimes.com/topic/subject/iran-nuclear-deal"
+    "id": "news_article_003",
+    "type": "news",
+    "title": "Iran's Nuclear Program Advances, Raising International Alarm",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(3).jpeg",
+    "content": "Iran's nuclear program continues its advancement, triggering alarm across the international community. Recent developments suggest an increase in enriched uranium stockpiles and capabilities, leading to renewed diplomatic efforts and warnings from global powers regarding proliferation risks and regional stability.\n\nLearn more: https://commonslibrary.parliament.uk/research-briefings/cbp-10284/\n\nhttps://www.nytimes.com/topic/subject/iran-nuclear-deal"
   },
 
 
 
   {
-    "newsHeadline": "Global Economic Slowdown Prompts Calls for New Financial System",
-    "summary": "Economic slowdown sparks new financial system calls.",
-    "link": "https://www.worldbank.org/en/news/press-release/2025/06/10/global-economic-prospects-june-2025-press-release\n\n\nhttps://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary"
+    "id": "news_article_004",
+    "type": "news",
+    "title": "Global Economic Slowdown Prompts Calls for New Financial System",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(4).jpeg",
+    "content": "A widespread global economic slowdown is prompting urgent discussions and calls for a new, more resilient financial system. Experts and policymakers are exploring reforms to address vulnerabilities, manage inflation, and ensure sustainable growth amidst mounting debt and geopolitical uncertainties.\n\nLearn more: https://www.worldbank.org/en/news/press-release/2025/06/10/global-economic-prospects-june-2025-press-release\n\nhttps://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary"
   },
 
 
 
   {
-    "newsHeadline": "Unprecedented Food Shortages and Famines Reported Across African Continent",
-    "summary": "Africa faces unprecedented food shortages, famine.",
-    "link": "https://www.fao.org/newsroom/detail/fao-and-wfp-early-warning-report-reveals-worsening-hunger-in-13-hotspots--five-with-immediate-risk-of-starvation/en\n\n\nhttps://reliefweb.int/report/sudan/refugees-escaping-sudan-face-escalating-hunger-and-malnutrition-food-aid-risks-major-reductions"
-  },
-
-
-
-  {
-    "newsHeadline": "Major Earthquake Strikes Pacific Rim, Causing Widespread Devastation",
-    "summary": "Major earthquake devastates Pacific Rim region.",
-    "link": "https://watchers.news/2025/06/01/m6-3-earthquake-hokkaido-japan-slight-sea-level-changes-forecast/\n\n\nhttps://www.artemis.bm/recent-earthquakes/"
-  },
-
-
-
-  {
-    "newsHeadline": "New Wave of Pestilence Spreads Rapidly, Challenging Global Health Systems",
-    "summary": "New pestilence rapidly challenges global health.",
-    "link": "https://www.promedmail.org/\n\n\nhttps://www.who.int/newsroom"
-  },
-
-
-
-  {
-    "newsHeadline": "Calls for Unified Global Governance Grow Amidst Crises",
-    "summary": "Crises lead to global governance calls.",
-    "link": "https://www.democracywithoutborders.org/37007/climate-groups-call-for-reform-of-un-talks-end-of-consensus-rule/\n\n\nhttps://reliefweb.int/report/world/fao-urges-collective-action-food-security-climate-and-development-challenges-africa"
-  },
-
-
-
-  {
-    "newsHeadline": "Rise in Anti-Semitism Alarms Jewish Communities Worldwide",
-    "summary": "Anti-Semitism rise alarms Jewish communities.",
-    "link": "https://combatantisemitism.org/studies-reports/antisemitic-incidents-remain-elevated-globally-in-april-amid-renewed-gaza-fighting/\n\n\nhttps://www.adl.org/news"
-  },
-
-
-
-  {
-    "newsHeadline": "Religious Persecution Escalates in Several Nations, Reports Human Rights Watch",
-    "summary": "Religious persecution escalates, reports Human Rights Watch.",
-    "link": "https://www.thebanner.org/news/2025/01/report-1-in-7-global-christians-faces-high-level-persecution\n\n\nhttps://www.churchinneed.org/father-fadi-azar-speaks-about-the-situation-of-christians-in-syria/"
-  },
-
-
-
-  {
-    "newsHeadline": "Diplomatic Efforts Fail to De-escalate Tensions Between Russia and Western Powers",
-    "summary": "Russia-West tensions remain, diplomacy fails.",
-    "link": "https://www.internationalaffairs.org.au/australianoutlook/diplomacy-in-crisis-new-global-strategies-ukraine-needs-to-end-the-war/\n\n\nhttps://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-june-25-2025"
-  },
-
-
-
-  {
-    "newsHeadline": "Historic Drought Conditions Threaten Global Water Supply",
-    "summary": "Historic drought threatens global water supply.",
-    "link": "https://www.insightsonindia.com/2025/06/19/global-drought-outlook-2025/\n\n\nhttps://www.drought.gov/what-is-drought/historical-drought"
-  },
-
-
-
-  {
-    "newsHeadline": "Mass Migrations Continue to Reshape Demographics Globally",
-    "summary": "Mass migrations reshape global demographics.",
-    "link": "https://www.icmpd.org/file/download/63373/file/ICMPD%2520Migration%2520Outlook%25202025.pdf\n\n\nhttps://macdonaldlaurier.ca/mass-immigration-can-cause-enormous-shifts-in-local-culture-national-identity-and-community-cohesion-geoff-russ-for-inside-policy/"
-  },
-
-
-
-  {
-    "newsHeadline": "Surge in Occult Practices and Spiritual Deception Reported",
-    "summary": "Occult practices, deception surge reported.",
-    "link": "https://www.deezer.com/en/show/5596647\n\n\nhttps://ignitumtoday.com/2025/01/16/healing-or-harm-unmasking-the-occult-roots-of-crystal-healing/"
-  },
-
-
-
-  {
-    "newsHeadline": "Ancient Sites in Middle East Face Renewed Threats from Conflict",
-    "summary": "M.E. conflict threatens ancient sites.",
-    "link": "https://www.dhs.gov/ntas/advisory/national-terrorism-advisory-system-bulletin-june-22-2025\n\n\nhttps://www.newarab.com/features/forgotten-cities-middle-east-ravaged-war"
-  },
-
-
-
-  {
-    "newsHeadline": "AI Breakthroughs Lead to Near-Human Level Cognition in Advanced Systems",
-    "summary": "AI achieves near-human cognition breakthroughs.",
-    "link": "https://dailygalaxy.com/2025/06/for-the-first-time-ai-breakthrough-enables-humans-to-hold-a-20-minute-conversation-with-a-humpback-whale/\n\n\nhttps://www.sciencedaily.com/releases/2025/04/250422131924.htm"
-  },
-
-
-
-  {
-    "newsHeadline": "Global Digital Currency Initiatives Gain Traction for International Transactions",
-    "summary": "Digital currency gains traction globally.",
-    "link": "https://www.finextra.com/blogposting/28798/banks-and-stablecoins-a-first-step-towards-bridging-traditional-finance-and-the-crypto-world\n\n\nhttps://www.lawfaremedia.org/article/will-central-bank-digital-currencies-revolutionize-global-finance"
-  },
-
-
-
-  {
-    "newsHeadline": "Biometric Identification Systems Adopted by More Governments for Citizen Verification",
-    "summary": "Governments adopt biometric identification systems.",
-    "link": "https://immi.home-affairs.gov.au/help-support/meeting-our-requirements/biometrics\n\n\nhttps://www.techpolicy.press/lessons-from-national-digital-id-systems-for-privacy-security-and-trust-in-the-ai-age/"
-  },
-
-
-
-  {
-    "newsHeadline": "Advanced Surveillance Technologies Deployed for Public Safety and National Security",
-    "summary": "Surveillance technologies deployed for security.",
-    "link": "https://www.akingump.com/en/insights/blogs/trump-executive-order-tracker/deploying-advanced-nuclear-reactor-technologies-for-national-security\n\n\nhttps://truthout.org/articles/trump-is-rapidly-expanding-the-surveillance-state-as-protests-grow/"
-  },
-
-
-
-  {
-    "newsHeadline": "Neuralink-like Brain-Computer Interfaces Show Promising Results in Human Trials",
-    "summary": "Neuralink shows promising human trial results.",
-    "link": "https://www.themiamiproject.org/paralyzed-veteran-implanted-with-neuralink-device/\n\n\nhttps://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2025.1553905/full"
+    "id": "news_article_005",
+    "type": "news",
+    "title": "Unprecedented Food Shortages and Famines Reported Across African Continent",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(5).jpeg",
+    "content": "Reports indicate unprecedented levels of food shortages and active famines across multiple regions in Africa. Conflict, climate change, and economic instability are exacerbating the humanitarian crisis, leaving millions in urgent need of assistance and raising alarms about a deepening catastrophe.\n\nLearn more: https://www.fao.org/newsroom/detail/fao-and-wfp-early-warning-report-reveals-worsening-hunger-in-13-hotspots--five-with-immediate-risk-of-starvation/en\n\nhttps://reliefweb.int/report/sudan/refugees-escaping-sudan-face-escalating-hunger-and-malnutrition-food-aid-risks-major-reductions"
   },
 
 
@@ -163,7 +53,147 @@
     "id": "news_article_006",
     "type": "news",
     "title": "Major Earthquake Strikes Pacific Rim",
-    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20%286%29.jpeg",
-    "content": "A strong M6.3 earthquake struck near the coast of Hokkaido, Japan, on June 1, 2025, at 18:51 UTC. The shallow quake, also reported as M6.0 by USGS and EMSC, occurred at a depth of 31 km (19.2 miles). Japanese authorities forecast slight sea level changes. This event marks the second M6+ earthquake in the Hokkaido region since May 31, raising concerns about seismic activity in the Pacific Rim."
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(6).jpeg",
+    "content": "A strong M6.3 earthquake struck near the coast of Hokkaido, Japan, on June 1, 2025, at 18:51 UTC. The shallow quake, also reported as M6.0 by USGS and EMSC, occurred at a depth of 31 km (19.2 miles). Japanese authorities forecast slight sea level changes. This event marks the second M6+ earthquake in the Hokkaido region since May 31, raising concerns about seismic activity in the Pacific Rim.\n\nLearn more: https://watchers.news/2025/06/01/m6-3-earthquake-hokkaido-japan-slight-sea-level-changes-forecast/\n\nhttps://www.artemis.bm/recent-earthquakes/"
+  },
+
+
+
+  {
+    "id": "news_article_007",
+    "type": "news",
+    "title": "New Wave of Pestilence Spreads Rapidly, Challenging Global Health Systems",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(7).jpeg",
+    "content": "A new wave of pestilence is spreading rapidly, posing a severe challenge to global health systems. Public health organizations are grappling with fast-mutating pathogens and the logistical complexities of containment, raising concerns about a potential widespread health crisis.\n\nLearn more: https://www.promedmail.org/\n\nhttps://www.who.int/newsroom"
+  },
+
+
+
+  {
+    "id": "news_article_008",
+    "type": "news",
+    "title": "Calls for Unified Global Governance Grow Amidst Crises",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(8).jpeg",
+    "content": "Amidst escalating global crises, there are growing calls for more unified global governance. International bodies and leaders are emphasizing the need for enhanced multilateral cooperation and coordinated responses to address interconnected challenges like climate change, pandemics, and economic instability.\n\nLearn more: https://www.democracywithoutborders.org/37007/climate-groups-call-for-reform-of-un-talks-end-of-consensus-rule/\n\nhttps://reliefweb.int/report/world/fao-urges-collective-action-food-security-climate-and-development-challenges-africa"
+  },
+
+
+
+  {
+    "id": "news_article_009",
+    "type": "news",
+    "title": "Rise in Anti-Semitism Alarms Jewish Communities Worldwide",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(9).jpeg",
+    "content": "A significant rise in anti-Semitism is alarming Jewish communities across the globe. Reports indicate an increase in hate incidents, rhetoric, and discrimination, prompting urgent calls for action from human rights organizations and governments to combat this growing wave of prejudice.\n\nLearn more: https://combatantisemitism.org/studies-reports/antisemitic-incidents-remain-elevated-globally-in-april-amid-renewed-gaza-fighting/\n\nhttps://www.adl.org/news"
+  },
+
+
+
+  {
+    "id": "news_article_010",
+    "type": "news",
+    "title": "Religious Persecution Escalates in Several Nations, Reports Human Rights Watch",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(10).jpeg",
+    "content": "Human Rights Watch reports a concerning escalation of religious persecution in several nations. Minority faith groups are facing increased oppression, violence, and discrimination, highlighting a deteriorating global landscape for religious freedom and prompting international condemnation.\n\nLearn more: https://www.thebanner.org/news/2025/01/report-1-in-7-global-christians-faces-high-level-persecution\n\nhttps://www.churchinneed.org/father-fadi-azar-speaks-about-the-situation-of-christians-in-syria/"
+  },
+
+
+
+  {
+    "id": "news_article_011",
+    "type": "news",
+    "title": "Diplomatic Efforts Fail to De-escalate Tensions Between Russia and Western Powers",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(11).jpeg",
+    "content": "Despite ongoing diplomatic efforts, tensions between Russia and Western powers remain high, with recent negotiations failing to achieve significant de-escalation. Disagreements over key geopolitical issues persist, raising concerns about regional stability and the future of international relations.\n\nLearn more: https://www.internationalaffairs.org.au/australianoutlook/diplomacy-in-crisis-new-global-strategies-ukraine-needs-to-end-the-war/\n\nhttps://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-june-25-2025"
+  },
+
+
+
+  {
+    "id": "news_article_012",
+    "type": "news",
+    "title": "Historic Drought Conditions Threaten Global Water Supply",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(12).jpeg",
+    "content": "Historic drought conditions are posing an existential threat to global water supplies. Prolonged periods of aridity are impacting agriculture, exacerbating food insecurity, and straining resources worldwide, necessitating urgent strategies for water conservation and management.\n\nLearn more: https://www.insightsonindia.com/2025/06/19/global-drought-outlook-2025/\n\nhttps://www.drought.gov/what-is-drought/historical-drought"
+  },
+
+
+
+  {
+    "id": "news_article_013",
+    "type": "news",
+    "title": "Mass Migrations Continue to Reshape Demographics Globally",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(13).jpeg",
+    "content": "Mass migrations continue to reshape demographics across the globe, driven by conflict, climate change, and economic disparities. These movements are leading to significant societal and political shifts in both origin and host countries, presenting complex challenges for integration and resource allocation.\n\nLearn more: https://www.icmpd.org/file/download/63373/file/ICMPD%2520Migration%2520Outlook%25202025.pdf\n\nhttps://macdonaldlaurier.ca/mass-immigration-can-cause-enormous-shifts-in-local-culture-national-identity-and-community-cohesion-geoff-russ-for-inside-policy/"
+  },
+
+
+
+  {
+    "id": "news_article_014",
+    "type": "news",
+    "title": "Surge in Occult Practices and Spiritual Deception Reported",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(14).jpeg",
+    "content": "Reports indicate a concerning surge in occult practices and spiritual deception. This trend is manifesting in various forms, from New Age movements to a renewed interest in esoteric rituals, prompting discussions about their societal impact and potential for manipulation.\n\nLearn more: https://www.deezer.com/en/show/5596647\n\nhttps://ignitumtoday.com/2025/01/16/healing-or-harm-unmasking-the-occult-roots-of-crystal-healing/"
+  },
+
+
+
+  {
+    "id": "news_article_015",
+    "type": "news",
+    "title": "Ancient Sites in Middle East Face Renewed Threats from Conflict",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(15).jpeg",
+    "content": "Ancient sites across the Middle East are facing renewed threats due to ongoing conflicts and instability. Priceless cultural heritage is at risk of destruction, looting, and neglect, prompting international calls for urgent protection measures to preserve these historical treasures.\n\nLearn more: https://www.dhs.gov/ntas/advisory/national-terrorism-advisory-system-bulletin-june-22-2025\n\nhttps://www.newarab.com/features/forgotten-cities-middle-east-ravaged-war"
+  },
+
+
+
+  {
+    "id": "news_article_016",
+    "type": "news",
+    "title": "AI Breakthroughs Lead to Near-Human Level Cognition in Advanced Systems",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(16).jpeg",
+    "content": "Recent breakthroughs in artificial intelligence are leading to advanced systems demonstrating near-human level cognition. These developments include enhanced learning capabilities, complex problem-solving, and even creative output, pushing the boundaries of what AI can achieve and raising new ethical questions.\n\nLearn more: https://dailygalaxy.com/2025/06/for-the-first-time-ai-breakthrough-enables-humans-to-hold-a-20-minute-conversation-with-a-humpback-whale/\n\nhttps://www.sciencedaily.com/releases/2025/04/250422131924.htm"
+  },
+
+
+
+  {
+    "id": "news_article_017",
+    "type": "news",
+    "title": "Global Digital Currency Initiatives Gain Traction for International Transactions",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(17).jpeg",
+    "content": "Global digital currency initiatives are gaining significant traction for international transactions. Central banks and financial institutions are exploring and implementing digital currencies to streamline cross-border payments, enhance financial inclusion, and modernize monetary systems, signaling a major shift in global finance.\n\nLearn more: https://www.finextra.com/blogposting/28798/banks-and-stablecoins-a-first-step-towards-bridging-traditional-finance-and-the-crypto-world\n\nhttps://www.lawfaremedia.org/article/will-central-bank-digital-currencies-revolutionize-global-finance"
+  },
+
+
+
+  {
+    "id": "news_article_018",
+    "type": "news",
+    "title": "Biometric Identification Systems Adopted by More Governments for Citizen Verification",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(18).jpeg",
+    "content": "More governments worldwide are adopting advanced biometric identification systems for citizen verification. These technologies, including facial recognition and fingerprint scanning, aim to enhance security, improve public services, and combat fraud, though they also spark debates about privacy and surveillance.\n\nLearn more: https://immi.home-affairs.gov.au/help-support/meeting-our-requirements/biometrics\n\nhttps://www.techpolicy.press/lessons-from-national-digital-id-systems-for-privacy-security-and-trust-in-the-ai-age/"
+  },
+
+
+
+  {
+    "id": "news_article_019",
+    "type": "news",
+    "title": "Advanced Surveillance Technologies Deployed for Public Safety and National Security",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(19).jpeg",
+    "content": "Advanced surveillance technologies are increasingly being deployed for public safety and national security purposes. These systems, utilizing AI, drones, and extensive data analysis, aim to monitor and prevent threats, but also raise significant concerns about civil liberties and the extent of government oversight.\n\nLearn more: https://www.akingump.com/en/insights/blogs/trump-executive-order-tracker/deploying-advanced-nuclear-reactor-technologies-for-national-security\n\nhttps://truthout.org/articles/trump-is-rapidly-expanding-the-surveillance-state-as-protests-grow/"
+  },
+
+
+
+  {
+    "id": "news_article_020",
+    "type": "news",
+    "title": "Neuralink-like Brain-Computer Interfaces Show Promising Results in Human Trials",
+    "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20(20).jpeg",
+    "content": "Neuralink-like brain-computer interfaces are showing promising results in human trials. These groundbreaking technologies allow individuals to control external devices with their thoughts, offering new hope for those with paralysis and neurological conditions, while also opening new frontiers in human-technology interaction.\n\nLearn more: https://www.themiamiproject.org/paralyzed-veteran-implanted-with-neuralink-device/\n\nhttps://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2025.1553905/full"
   }
 ]
