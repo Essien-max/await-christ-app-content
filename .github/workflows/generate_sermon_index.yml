@@ -8,6 +8,10 @@ on:
       - 'rapture_sermon_*.json' # Trigger when any individual sermon JSON changes in the root
       - '.github/scripts/generate_index.py' # Trigger if the script itself changes
 
+# ADD THIS BLOCK:
+permissions:
+  contents: write # This grants write permission to the GITHUB_TOKEN for the repository contents
+
 jobs:
   build:
     runs-on: ubuntu-latest
