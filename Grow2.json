@@ -1,6 +1,3 @@
 {
-  "latest_video": {
-    "title": "Your Video Title",
-    "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-  }
+  "featuredVideoUrl": "https://www.youtube.com/embed/mc_FoqZJ9vc"
 }
