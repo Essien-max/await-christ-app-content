@@ -1,44 +1,54 @@
 {
   "videos": [
     {
-      "title": "Video Title 1",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_1"
+      "title": "Evidence for the Resurrection of Jesus Christ",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_U",
+      "description": "Examining the historical and logical arguments supporting the resurrection of Jesus."
     },
     {
-      "title": "Video Title 2",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_2"
+      "title": "Does God Exist? Arguments for God's Existence",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_V",
+      "description": "Exploring philosophical and scientific reasons to believe in a Creator God."
     },
     {
-      "title": "Video Title 3",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_3"
+      "title": "The Problem of Evil and Suffering",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_W",
+      "description": "Addressing one of the most challenging questions for believers: why does evil exist if God is good?"
     },
     {
-      "title": "Video Title 4",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_4"
+      "title": "Is the Bible Reliable? Historical and Textual Evidence",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_X",
+      "description": "Investigating the accuracy and preservation of the biblical texts."
     },
     {
-      "title": "Video Title 5",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_5"
+      "title": "Responding to Atheism and Agnosticism",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_Y",
+      "description": "Practical ways to engage with and answer common objections from non-believers."
     },
     {
-      "title": "Video Title 6",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_6"
+      "title": "Science and Faith: Are They Compatible?",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_Z",
+      "description": "Discussing the relationship between scientific discovery and biblical truth."
     },
     {
-      "title": "Video Title 7",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_7"
+      "title": "The Uniqueness of Jesus Christ",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_AA",
+      "description": "Why Jesus stands apart from all other religious figures and teachers."
     },
     {
-      "title": "Video Title 8",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_8"
+      "title": "Addressing Objections to Christianity: Common Fallacies",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_BB",
+      "description": "Identifying and refuting common logical errors in arguments against Christianity."
     },
     {
-      "title": "Video Title 9",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_9"
+      "title": "The Moral Argument for God's Existence",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_CC",
+      "description": "How the universal human sense of right and wrong points to a divine lawgiver."
     },
     {
-      "title": "Video Title 10",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_10"
+      "title": "Why Christianity is True: A Summary",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_DD",
+      "description": "A concise overview of the core reasons for the truth claims of Christianity."
     }
   ]
 }
