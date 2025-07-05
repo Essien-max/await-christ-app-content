@@ -1,44 +1,54 @@
 {
   "videos": [
     {
-      "title": "Video Title 1",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_1"
+      "title": "PPOV 361 - July 4, 2025",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_1",
+      "description": "Pastors Andy and Jim give their analysis of current events from a biblical perspective. (July 4, 2025)"
     },
     {
-      "title": "Video Title 2",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_2"
+      "title": "Understanding the Book of Revelation: Chapter 1",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_2",
+      "description": "An in-depth study of Revelation, beginning with the foundational truths of chapter one."
     },
     {
-      "title": "Video Title 3",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_3"
+      "title": "The Importance of Prayer in End Times",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_3",
+      "description": "A powerful message on why prayer is more crucial than ever as we approach the end times."
     },
     {
-      "title": "Video Title 4",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_4"
+      "title": "Living a Victorious Christian Life",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_4",
+      "description": "Discover principles for overcoming challenges and living in victory through Christ."
     },
     {
-      "title": "Video Title 5",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_5"
+      "title": "The Blessed Hope: A Study on the Rapture",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_5",
+      "description": "An encouraging sermon exploring the biblical doctrine of the Rapture and its implications for believers."
     },
     {
-      "title": "Video Title 6",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_6"
+      "title": "Faith in Times of Uncertainty",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_6",
+      "description": "How to maintain unwavering faith when the world around us seems to be in chaos."
     },
     {
-      "title": "Video Title 7",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_7"
+      "title": "The Power of God's Word",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_7",
+      "description": "Unlocking the transformative power of scripture in your daily life."
     },
     {
-      "title": "Video Title 8",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_8"
+      "title": "Discipleship: Following Jesus Fully",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_8",
+      "description": "A call to true discipleship and committing to walk in the footsteps of Christ."
     },
     {
-      "title": "Video Title 9",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_9"
+      "title": "The Holy Spirit: Our Comforter and Guide",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_9",
+      "description": "Understanding the role of the Holy Spirit in the life of a believer."
     },
     {
-      "title": "Video Title 10",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_10"
+      "title": "Evangelism: Sharing the Good News",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_10",
+      "description": "Practical steps and encouragement for sharing your faith with others."
     }
   ]
 }
