@@ -1,44 +1,54 @@
 {
   "videos": [
     {
-      "title": "Video Title 1",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_1"
+      "title": "The Doctrine of God: Trinity and Attributes",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_K",
+      "description": "A foundational study on the nature of God, including the Trinity and His divine attributes."
     },
     {
-      "title": "Video Title 2",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_2"
+      "title": "Christology: The Person and Work of Jesus Christ",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_L",
+      "description": "Understanding who Jesus is and what He accomplished through His life, death, and resurrection."
     },
     {
-      "title": "Video Title 3",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_3"
+      "title": "Pneumatology: The Study of the Holy Spirit",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_M",
+      "description": "Exploring the personhood, ministry, and gifts of the Holy Spirit."
     },
     {
-      "title": "Video Title 4",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_4"
+      "title": "Soteriology: The Doctrine of Salvation",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_N",
+      "description": "A comprehensive look at God's plan for salvation, from election to glorification."
     },
     {
-      "title": "Video Title 5",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_5"
+      "title": "Ecclesiology: The Doctrine of the Church",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_O",
+      "description": "Understanding the nature, purpose, and mission of the Church."
     },
     {
-      "title": "Video Title 6",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_6"
+      "title": "Anthropology: The Doctrine of Man",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_P",
+      "description": "What the Bible teaches about human nature, creation, and the fall."
     },
     {
-      "title": "Video Title 7",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_7"
+      "title": "Bibliology: The Doctrine of the Bible",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_Q",
+      "description": "The inspiration, authority, and sufficiency of God's Word."
     },
     {
-      "title": "Video Title 8",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_8"
+      "title": "Angelology and Demonology: Angels, Satan, and Demons",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_R",
+      "description": "A biblical overview of spiritual beings, both good and evil."
     },
     {
-      "title": "Video Title 9",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_9"
+      "title": "Covenant Theology vs. Dispensationalism",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_S",
+      "description": "An examination of two major interpretive frameworks for understanding God's plan throughout history."
     },
     {
-      "title": "Video Title 10",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_10"
+      "title": "The Kingdom of God: Present and Future",
+      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_T",
+      "description": "Understanding the multifaceted nature of God's kingdom as revealed in scripture."
     }
   ]
 }
