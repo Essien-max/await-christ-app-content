@@ -1,54 +1,54 @@
 {
   "videos": [
     {
-      "title": "The Doctrine of God: Trinity and Attributes",
-      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_K",
-      "description": "A foundational study on the nature of God, including the Trinity and His divine attributes."
+      "title": "The Blessed Hope: Understanding the Rapture",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_1",
+      "author": "Pastor John Doe"
     },
     {
-      "title": "Christology: The Person and Work of Jesus Christ",
-      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_L",
-      "description": "Understanding who Jesus is and what He accomplished through His life, death, and resurrection."
+      "title": "Signs of the Times: Prophecy Fulfilled",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_2",
+      "author": "Evangelist Jane Smith"
     },
     {
-      "title": "Pneumatology: The Study of the Holy Spirit",
-      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_M",
-      "description": "Exploring the personhood, ministry, and gifts of the Holy Spirit."
+      "title": "Living in Light of Eternity",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_3",
+      "author": "Dr. Michael Brown"
     },
     {
-      "title": "Soteriology: The Doctrine of Salvation",
-      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_N",
-      "description": "A comprehensive look at God's plan for salvation, from election to glorification."
+      "title": "The Return of Christ: A Detailed Study",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_4",
+      "author": "Teacher Sarah Lee"
     },
     {
-      "title": "Ecclesiology: The Doctrine of the Church",
-      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_O",
-      "description": "Understanding the nature, purpose, and mission of the Church."
+      "title": "Preparing for His Coming",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_5",
+      "author": "Pastor John Doe"
     },
     {
-      "title": "Anthropology: The Doctrine of Man",
-      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_P",
-      "description": "What the Bible teaches about human nature, creation, and the fall."
+      "title": "The Book of Revelation Explained",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_6",
+      "author": "Evangelist Jane Smith"
     },
     {
-      "title": "Bibliology: The Doctrine of the Bible",
-      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_Q",
-      "description": "The inspiration, authority, and sufficiency of God's Word."
+      "title": "Hope in Troubled Times",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_7",
+      "author": "Dr. Michael Brown"
     },
     {
-      "title": "Angelology and Demonology: Angels, Satan, and Demons",
-      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_R",
-      "description": "A biblical overview of spiritual beings, both good and evil."
+      "title": "The End is Near: Are You Ready?",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_8",
+      "author": "Teacher Sarah Lee"
     },
     {
-      "title": "Covenant Theology vs. Dispensationalism",
-      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_S",
-      "description": "An examination of two major interpretive frameworks for understanding God's plan throughout history."
+      "title": "Understanding Daniel's Prophecies",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_9",
+      "author": "Pastor John Doe"
     },
     {
-      "title": "The Kingdom of God: Present and Future",
-      "url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID_T",
-      "description": "Understanding the multifaceted nature of God's kingdom as revealed in scripture."
+      "title": "The Final Countdown",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_10",
+      "author": "Evangelist Jane Smith"
     }
   ]
 }
