@@ -3,52 +3,62 @@
     {
       "title": "The Blessed Hope: Understanding the Rapture",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_1",
-      "author": "Pastor John Doe"
+      "author": "Pastor John Doe",
+      "version": "1"
     },
     {
       "title": "Signs of the Times: Prophecy Fulfilled",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_2",
-      "author": "Evangelist Jane Smith"
+      "author": "Evangelist Jane Smith",
+      "version": "1"
     },
     {
       "title": "Living in Light of Eternity",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_3",
-      "author": "Dr. Michael Brown"
+      "author": "Dr. Michael Brown",
+      "version": "1"
     },
     {
       "title": "The Return of Christ: A Detailed Study",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_4",
-      "author": "Teacher Sarah Lee"
+      "author": "Teacher Sarah Lee",
+      "version": "1"
     },
     {
       "title": "Preparing for His Coming",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_5",
-      "author": "Pastor John Doe"
+      "author": "Pastor John Doe",
+      "version": "1"
     },
     {
       "title": "The Book of Revelation Explained",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_6",
-      "author": "Evangelist Jane Smith"
+      "author": "Evangelist Jane Smith",
+      "version": "1"
     },
     {
       "title": "Hope in Troubled Times",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_7",
-      "author": "Dr. Michael Brown"
+      "author": "Dr. Michael Brown",
+      "version": "1"
     },
     {
       "title": "The End is Near: Are You Ready?",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_8",
-      "author": "Teacher Sarah Lee"
+      "author": "Teacher Sarah Lee",
+      "version": "1"
     },
     {
       "title": "Understanding Daniel's Prophecies",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_9",
-      "author": "Pastor John Doe"
+      "author": "Pastor John Doe",
+      "version": "1"
     },
     {
       "title": "The Final Countdown",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_10",
-      "author": "Evangelist Jane Smith"
+      "author": "Evangelist Jane Smith",
+      "version": "1"
     }
   ]
 }
