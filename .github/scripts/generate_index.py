@@ -24,7 +24,7 @@ def generate_rapture_sermon_index():
                 "title": article_data.get("title"),
                 "thumbnailUrl": article_data.get("thumbnailUrl"),
                 "page": article_data.get("page"),
-                "category": article_data.get("category")
+                "category": article_data.get("category"), # <--- COMMA ADDED HERE
                 "version": article_data.get("version")
             }
             index_data.append(metadata)
@@ -34,8 +34,12 @@ def generate_rapture_sermon_index():
 
     # Write the compiled index to the rapture_sermons_index.json file
     try:
+        # Wrap the index_data in a top-level object with an "articles" key
+        # This aligns with the app's expectation of {"articles": [...]}
+        final_index_content = {"articles": index_data} 
+        
         with open(INDEX_FILE, 'w', encoding='utf-8') as f:
-            json.dump(index_data, f, indent=2, ensure_ascii=False)
+            json.dump(final_index_content, f, indent=2, ensure_ascii=False)
         print(f"Successfully generated {INDEX_FILE} with {len(index_data)} entries.")
     except Exception as e:
         print(f"Error writing index file: {e}")
