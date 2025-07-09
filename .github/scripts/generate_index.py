@@ -25,6 +25,7 @@ def generate_rapture_sermon_index():
                 "thumbnailUrl": article_data.get("thumbnailUrl"),
                 "page": article_data.get("page"),
                 "category": article_data.get("category")
+                "version": article_data.get("version")
             }
             index_data.append(metadata)
         except Exception as e:
