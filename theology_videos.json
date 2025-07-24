@@ -1,63 +1,83 @@
 {
   "videos": [
     {
+      "id": "VIDEO_ID_1",
       "title": "The Blessed Hope: Understanding the Rapture",
+      "author": "Pastor John Doe",
+      "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_1/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_1",
-      "author": "Pastor John Doe",
       "version": "1"
     },
     {
+      "id": "VIDEO_ID_2",
       "title": "Signs of the Times: Prophecy Fulfilled",
+      "author": "Evangelist Jane Smith",
+      "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_2/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_2",
-      "author": "Evangelist Jane Smith",
       "version": "1"
     },
     {
+      "id": "VIDEO_ID_3",
       "title": "Living in Light of Eternity",
+      "author": "Dr. Michael Brown",
+      "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_3/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_3",
-      "author": "Dr. Michael Brown",
       "version": "1"
     },
     {
+      "id": "VIDEO_ID_4",
       "title": "The Return of Christ: A Detailed Study",
+      "author": "Teacher Sarah Lee",
+      "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_4/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_4",
-      "author": "Teacher Sarah Lee",
       "version": "1"
     },
     {
+      "id": "VIDEO_ID_5",
       "title": "Preparing for His Coming",
+      "author": "Pastor John Doe",
+      "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_5/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_5",
-      "author": "Pastor John Doe",
       "version": "1"
     },
     {
+      "id": "VIDEO_ID_6",
       "title": "The Book of Revelation Explained",
+      "author": "Evangelist Jane Smith",
+      "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_6/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_6",
-      "author": "Evangelist Jane Smith",
       "version": "1"
     },
     {
+      "id": "VIDEO_ID_7",
       "title": "Hope in Troubled Times",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_7",
       "author": "Dr. Michael Brown",
+      "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_7/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_7",
       "version": "1"
     },
     {
+      "id": "VIDEO_ID_8",
       "title": "The End is Near: Are You Ready?",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_8",
       "author": "Teacher Sarah Lee",
+      "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_8",
       "version": "1"
     },
     {
+      "id": "VIDEO_ID_9",
       "title": "Understanding Daniel's Prophecies",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_9",
       "author": "Pastor John Doe",
+      "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_9/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_9",
       "version": "1"
     },
     {
+      "id": "VIDEO_ID_10",
       "title": "The Final Countdown",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_10",
       "author": "Evangelist Jane Smith",
+      "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_10/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_10",
       "version": "1"
     }
   ]
