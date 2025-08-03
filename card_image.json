@@ -2,7 +2,7 @@
   {
     "id": "card_sermons",
     "title": "Sermons",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/sermons_card_v2.webp",
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/home_card_images/rapture_articles.webp",
     "targetPage": "VideoListPage",
     "categoryType": "sermons"
   },
@@ -64,4 +64,5 @@
   }
 
 ]
+
 
