@@ -2,7 +2,7 @@
   {
     "id": "card_sermons",
     "title": "Sermons",
-    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/home_card_images/rapture_articles.webp",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/sermons_card_v2.webp",
     "targetPage": "VideoListPage",
     "categoryType": "sermons"
   },
@@ -23,46 +23,45 @@
   {
     "id": "card_read_devotionals",
     "title": "Read Daily Devotionals",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/read_devotionals_card_PLACEHOLDER.webp", 
-    "targetPage": "DevotionalListScreen" // Or the screen that lists devotionals
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/read_devotionals_card_v1.webp",
+    "targetPage": "DevotionalListScreen"
   },
   {
     "id": "card_watch_devotionals",
     "title": "Watch Devotional Inspiration",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/watch_devotionals_card_PLACEHOLDER.webp",
-    "targetPage": "VideoDevotionalListScreen" 
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/watch_devotionals_card_v1.webp",
+    "targetPage": "VideoDevotionalListScreen"
   },
   {
     "id": "card_share",
     "title": "Share the App",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/share_app_card_PLACEHOLDER.webp",
-    "targetPage": "ShareAppScreen" 
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/share_app_card_v1.webp",
+    "targetPage": "ShareAppScreen"
   },
   {
-    "id": "card_about",
-    "title": "About Us",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/about_us_card_v1.webp",
-    "targetPage": "AboutUsPage"
+    "id": "card_apologetics",
+    "title": "Apologetics",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/apologetics_card_v1.webp",
+    "targetPage": "ArticleViewerScreen",
+    "articleId": "apologetics_introduction"
   },
   {
-    "id": "card_contact",
-    "title": "Contact Us",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/contact_us_card_v1.webp",
-    "targetPage": "ContactPage"
+    "id": "card_rapture_sermons",
+    "title": "Rapture Sermons",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/rapture_sermons_card_v1.webp",
+    "targetPage": "VideoListPage",
+    "categoryType": "rapture_sermons"
   },
   {
-    "id": "card_resources",
-    "title": "Resources",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/resources_card_v1.webp",
-    "targetPage": "ResourcesPage"
+    "id": "card_grow_pray",
+    "title": "Grow Pray",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/grow_pray_card_v1.webp",
+    "targetPage": "GrowPrayScreen"
   },
   {
-    "id": "card_faq",
-    "title": "FAQs",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/faq_card_v1.webp",
-    "targetPage": "FaqPage"
+    "id": "card_grow_shorts",
+    "title": "Grow Shorts",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/grow_shorts_card_v1.webp",
+    "targetPage": "GrowShortsScreen"
   }
-
 ]
-
-
