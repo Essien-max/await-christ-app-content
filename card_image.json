@@ -1,0 +1,65 @@
+[
+  {
+    "id": "card_sermons",
+    "title": "Sermons",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/sermons_card_v2.webp",
+    "targetPage": "VideoListPage",
+    "categoryType": "sermons"
+  },
+  {
+    "id": "card_theology",
+    "title": "Theology",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/theology_card_v1.webp",
+    "targetPage": "ArticleViewerScreen",
+    "articleId": "theology_introduction"
+  },
+  {
+    "id": "card_endtimes",
+    "title": "End Times Prophecy",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/endtimes_card_20250803.webp",
+    "targetPage": "VideoListPage",
+    "categoryType": "end_times_prophecy"
+  },
+  {
+    "id": "card_read_devotionals",
+    "title": "Read Daily Devotionals",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/read_devotionals_card_PLACEHOLDER.webp", // <-- PLACEHOLDER: Replace with actual URL
+    "targetPage": "DevotionalListScreen" // Or the screen that lists devotionals
+  },
+  {
+    "id": "card_watch_devotionals",
+    "title": "Watch Devotional Inspiration",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/watch_devotionals_card_PLACEHOLDER.webp", // <-- PLACEHOLDER: Replace with actual URL
+    "targetPage": "VideoDevotionalListScreen" // Or the screen that lists video devotionals
+  },
+  {
+    "id": "card_share",
+    "title": "Share the App",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/share_app_card_PLACEHOLDER.webp", // <-- PLACEHOLDER: Replace with actual URL
+    "targetPage": "ShareAppScreen" // Or an action to trigger share_plus directly
+  },
+  {
+    "id": "card_about",
+    "title": "About Us",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/about_us_card_v1.webp",
+    "targetPage": "AboutUsPage"
+  },
+  {
+    "id": "card_contact",
+    "title": "Contact Us",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/contact_us_card_v1.webp",
+    "targetPage": "ContactPage"
+  },
+  {
+    "id": "card_resources",
+    "title": "Resources",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/resources_card_v1.webp",
+    "targetPage": "ResourcesPage"
+  },
+  {
+    "id": "card_faq",
+    "title": "FAQs",
+    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/faq_card_v1.webp",
+    "targetPage": "FaqPage"
+  }
+]
