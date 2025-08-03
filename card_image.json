@@ -30,13 +30,13 @@
     "id": "card_watch_devotionals",
     "title": "Watch Devotional Inspiration",
     "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/watch_devotionals_card_PLACEHOLDER.webp",
-    "targetPage": "VideoDevotionalListScreen" // Or the screen that lists video devotionals
+    "targetPage": "VideoDevotionalListScreen" 
   },
   {
     "id": "card_share",
     "title": "Share the App",
     "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/share_app_card_PLACEHOLDER.webp",
-    "targetPage": "ShareAppScreen" // Or an action to trigger share_plus directly
+    "targetPage": "ShareAppScreen" 
   },
   {
     "id": "card_about",
@@ -64,3 +64,4 @@
   }
 
 ]
+
