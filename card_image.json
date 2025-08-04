@@ -2,22 +2,22 @@
   {
     "id": "card_sermons",
     "Description": "Sermons",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/sermons_card_v2.webp",
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/home_card_images/sermon_playlist_video.webp",
   },
   {
     "id": "card_theology",
     "Description": "Theology",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/theology_card_v1.webp",
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/theology.webp",
   },
   {
     "id": "card_endtimes",
     "Description": "End Times Prophecy",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/endtimes_card_20250803.webp",
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/home_card_images/endtimes_news.webp",
   },
   {
     "id": "card_read_devotionals",
     "Description": "Read Daily Devotionals",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/read_devotionals_card_PLACEHOLDER.webp",
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/read_devotional_card_image.webp",
    },
     {
     "id": "card_watch_devotionals",
@@ -27,7 +27,7 @@
   {
     "id": "card_share",
     "Description": "Share the App",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/share_app_card_PLACEHOLDER.webp", 
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/share_app.webp", 
     },
   {
     "id": "card_growshorts",
@@ -55,4 +55,5 @@
     "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/faq_card_v1.webp",
      }
 ]
+
 
