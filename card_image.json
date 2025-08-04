@@ -18,7 +18,8 @@
     "id": "card_read_devotionals",
     "Description": "Read Daily Devotionals",
     "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/read_devotionals_card_PLACEHOLDER.webp",
-  {
+   },
+    {
     "id": "card_watch_devotionals",
     "Description": "Watch Devotional Inspiration",
     "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/watch_devotionals_card_PLACEHOLDER.webp", 
@@ -54,3 +55,4 @@
     "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/faq_card_v1.webp",
      }
 ]
+
