@@ -2,7 +2,7 @@
   {
     "id": "card_sermons",
     "title": "Sermons",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/sermons_card_v2.webp",
+    "imageUrl": "https://github.com/Essien-max/await-christ-app-content/blob/main/home_card_images/sermon_playlist_video.webp",
     "targetPage": "VideoListPage",
     "categoryType": "sermons"
   },
@@ -16,7 +16,7 @@
   {
     "id": "card_endtimes",
     "title": "End Times Prophecy",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/endtimes_card_20250803.webp",
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/home_card_images/endtimes_news.webp",
     "targetPage": "VideoListPage",
     "categoryType": "end_times_prophecy"
   },
@@ -65,3 +65,4 @@
     "targetPage": "GrowShortsScreen"
   }
 ]
+
