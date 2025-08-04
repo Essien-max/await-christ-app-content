@@ -45,21 +45,22 @@
     "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/apologetics.webp",
       },
   {
-    "id": "card_give	",
+    "id": "card_give",
     "Description": "FAQs",
     "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/faq_card_v1.webp",
      },
 {
-    "id": "card_devotional_banner	",
+    "id": "card_devotional_banner",
     "Description": "FAQs",
     "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/faq_card_v1.webp",
      },
   {
-    "id": "card_rapture_articles	",
+    "id": "card_rapture_articles",
     "Description": "FAQs",
     "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/home_card_images/rapture_articles.webp",
      }
 ]
+
 
 
 
