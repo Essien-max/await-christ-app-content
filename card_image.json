@@ -22,7 +22,7 @@
     {
     "id": "card_watch_devotionals",
     "Description": "Watch Devotional Inspiration",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/watch_devotionals_card_PLACEHOLDER.webp"
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/growshorts.webp"
      },
   {
     "id": "card_share",
@@ -32,12 +32,11 @@
   {
     "id": "card_growshorts",
     "Description": "About Us",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/about_us_card_v1.webp"},
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/growshorts.webp"},
   {
     "id": "card_growpray",
     "Description": "Contact Us",
-    "imageUrl": "https://await-christ-app-content.pages.dev/images/main_cards/contact_us_card_v1.webp"
-    },
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/growpray.webp
   {
     "id": "card_apologetics",
     "Description": "Resources",
@@ -51,7 +50,7 @@
 {
     "id": "card_devotional_banner",
     "Description": "FAQs",
-    "imageUrl": "https://github.com/Essien-max/await-christ-app-content/blob/main/home_card_images%2Fsermon_playlist_video.webp"
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/daily_devotional_banner.webp"
      },
   {
     "id": "card_rapture_articles",
