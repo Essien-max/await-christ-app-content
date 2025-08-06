@@ -3,7 +3,7 @@
   "type": "news",
   "title": "Breaking News Article 1",
   "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20%281%29.webp",
-  "content": ""<!DOCTYPE html>
+  "content": <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -170,6 +170,6 @@
 
   </div>
 </body>
-</html>"",
+</html>,
   "version": "2"
 }
