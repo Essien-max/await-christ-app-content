@@ -32,11 +32,13 @@
   {
     "id": "card_growshorts",
     "Description": "About Us",
-    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/growshorts.webp"},
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/growshorts.webp"
+},
   {
     "id": "card_growpray",
     "Description": "Contact Us",
-    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/growpray.webp
+    "imageUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/refs/heads/main/growpray.webp"
+},
   {
     "id": "card_apologetics",
     "Description": "Resources",
