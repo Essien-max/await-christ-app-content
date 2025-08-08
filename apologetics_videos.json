@@ -2,10 +2,10 @@
   "videos": [
     {
       "id": "VIDEO_ID_1",
-      "title": "The Blessed Hope: Understanding the Rapture",
-      "author": "Pastor John Doe",
+      "title": "Skeptic Student Meets Her Match",
+      "author": "Pastor Cliffe",
       "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_1/sddefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_1",
+      "url": "https://www.youtube.com/embed/QLPyrQIX3Qc",
       "version": "1"
     },
     {
@@ -14,7 +14,7 @@
       "author": "Evangelist Jane Smith",
       "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_2/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_2",
-      "version": "1"
+      "version": "0"
     },
     {
       "id": "VIDEO_ID_3",
@@ -22,7 +22,7 @@
       "author": "Dr. Michael Brown",
       "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_3/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_3",
-      "version": "1"
+      "version": "0"
     },
     {
       "id": "VIDEO_ID_4",
@@ -30,7 +30,7 @@
       "author": "Teacher Sarah Lee",
       "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_4/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_4",
-      "version": "1"
+      "version": "0"
     },
     {
       "id": "VIDEO_ID_5",
@@ -38,7 +38,7 @@
       "author": "Pastor John Doe",
       "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_5/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_5",
-      "version": "1"
+      "version": "0"
     },
     {
       "id": "VIDEO_ID_6",
@@ -46,7 +46,7 @@
       "author": "Evangelist Jane Smith",
       "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_6/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_6",
-      "version": "1"
+      "version": "0"
     },
     {
       "id": "VIDEO_ID_7",
@@ -54,7 +54,7 @@
       "author": "Dr. Michael Brown",
       "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_7/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_7",
-      "version": "1"
+      "version": "0"
     },
     {
       "id": "VIDEO_ID_8",
@@ -62,7 +62,7 @@
       "author": "Teacher Sarah Lee",
       "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_8/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_8",
-      "version": "1"
+      "version": "0"
     },
     {
       "id": "VIDEO_ID_9",
@@ -70,7 +70,7 @@
       "author": "Pastor John Doe",
       "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_9/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_9",
-      "version": "1"
+      "version": "0"
     },
     {
       "id": "VIDEO_ID_10",
@@ -78,7 +78,7 @@
       "author": "Evangelist Jane Smith",
       "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_10/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID_10",
-      "version": "1"
+      "version": "0"
     }
   ]
 }
