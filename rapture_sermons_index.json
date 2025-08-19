@@ -1,15 +1,6 @@
 {
   "articles": [
     {
-      "id": "rapture_sermon_001",
-      "type": "rapture",
-      "title": "Rapture Sermon Series: Part 1",
-      "thumbnailUrl": "https://raw.githubusercontent.com/Essien-max/await-christ-app-content/main/image%20%2811%29.jpeg",
-      "page": 1,
-      "category": "Endtimes",
-      "version": "0"
-    },
-    {
       "id": "rapture_sermon_002",
       "type": "rapture",
       "title": "Rapture Sermon Series: Part 2",
