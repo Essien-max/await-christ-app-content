@@ -1,27 +1,26 @@
 [
   {
-    "scene": "Home",
-    "url": "https://www.youtube.com/watch?v=ZkBonk6-t54&t",
-    "title": "Hope for Today"
+    "id": "featured_video",
+    "title": "Featured Word of Hope",
+    "url": "https://www.youtube.com/watch?v=MsYZlLotDPU",
+    "thumbnail": "assets/images/placeholder_yt_video.webp"
   },
   {
-    "scene": "Grow1",
-    "url": "https://www.youtube.com/watch?v=xyz789",
-    "title": "Faith and Strength"
+    "id": "daily_inspiration",
+    "title": "Daily Inspiration Video",
+    "url": "https://www.youtube.com/watch?v=example_daily_id",
+    "thumbnail": "assets/images/placeholder_yt_video.webp"
   },
   {
-    "scene": "Grow2",
-    "url": "https://www.youtube.com/watch?v=xyz789",
-    "title": "Faith and Strength"
+    "id": "sermon_1",
+    "title": "Sermon: The Rapture",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "thumbnail": "assets/images/sermon_playlist_video.webp"
   },
   {
-    "scene": "Grow3",
-    "url": "https://www.youtube.com/watch?v=xyz789",
-    "title": "Faith and Strength"
+    "id": "sermon_2",
+    "title": "Sermon: End Times",
+    "url": "https://www.youtube.com/watch?v=3tmd-ClpJxA",
+    "thumbnail": "assets/images/sermon_playlist_video.webp"
   }
-
 ]
-
-
-
-
